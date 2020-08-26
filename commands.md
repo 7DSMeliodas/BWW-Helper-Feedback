@@ -1,4 +1,4 @@
-Here the help for the BlackWW Helperbot:
+# Here the help for the BlackWW Helperbot:
 
 # Usercommands:
 /command1 - description1
